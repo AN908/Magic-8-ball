@@ -1,0 +1,13 @@
+html {
+  background-image: url(img/pretty-vibrant-ocean-sunset-jyqib3lw63fcq1z3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  text-align: center;
+  margin: auto;
+  width: 700px;
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 5px 150px;
+}
